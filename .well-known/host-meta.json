@@ -1,0 +1,22 @@
+{
+	"links":[
+		{
+			"rel":"urn:xmpp:alt-connections:xbosh",
+			"href":"https://xmpp.toll.ml/bosh"
+		},
+		{
+			"rel":"urn:xmpp:alt-connections:websocket",
+			"href":"wss://xmpp.toll.ml/ws"
+		},
+		{
+			"rel":"urn:xmpp:alt-connections:xbosh",
+			"href":"https://toll.ml:5444/bosh"
+		},
+		{
+			"rel":"urn:xmpp:alt-connections:websocket",
+			"href":"wss://toll.ml:5444/ws"
+		}
+
+
+	]
+}

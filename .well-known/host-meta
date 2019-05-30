@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XRD xmlns='http://docs.oasis-open.org/ns/xri/xrd-1.0'>
+  <Link rel='urn:xmpp:alt-connections:xbosh' href='https://xmpp.toll.ml/bosh'/>
+  <Link rel='urn:xmpp:alt-connections:websocket' href='wss://xmpp.toll.ml/ws'/>
+  <Link rel='urn:xmpp:alt-connections:xbosh' href='https://toll.ml:5444/bosh'/>
+  <Link rel='urn:xmpp:alt-connections:websocket' href='wss://toll.ml:5444/ws'/>
+</XRD>
